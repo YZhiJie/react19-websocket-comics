@@ -1,0 +1,15 @@
+{
+  "series": "WebSocket 漫画剧场 · 霓虹墨 Neon Ink",
+  "version": "1.0.0",
+  "canvas": { "width": 1200, "height": 840 },
+  "panels": { "count": 4, "width": 572, "height": 361 },
+  "characters": ["像素酱", "标签君", "码叔"],
+  "episodes": [
+    { "ep": 1, "slug": "EP.01-handshake-duplex", "title": "全双工登场", "part": "02-websocket-basics.md" },
+    { "ep": 2, "slug": "EP.02-react-lifecycle", "title": "React 里的连接", "part": "02-websocket-basics.md" },
+    { "ep": 3, "slug": "EP.03-react19-features", "title": "React 19 上新", "part": "03-react19-features.md" },
+    { "ep": 4, "slug": "EP.04-chat-state-machine", "title": "聊天室状态机", "part": "04-realtime-app.md" },
+    { "ep": 5, "slug": "EP.05-resilience", "title": "断线复活术", "part": "05-advanced-best-practices.md" },
+    { "ep": 6, "slug": "EP.06-highfreq-render", "title": "高频不卡屏", "part": "05-advanced-best-practices.md" }
+  ]
+}
